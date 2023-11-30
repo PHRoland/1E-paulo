@@ -1,4 +1,18 @@
 h1{
-    color:aquamarine
-   
+    color:aquamarine;
+    text-align: center;
+    font-size: 50px;
+
+}
+
+body{
+    background-color: aliceblue;
+}
+p{
+    color: bisque;
+    font-size: 40px;
+    text-align: justify;
+}
+#imagem1{
+    width: 40%;
 }
